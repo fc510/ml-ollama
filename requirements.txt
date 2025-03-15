@@ -1,0 +1,6 @@
+ipykernel
+ipython
+ollama
+langchain
+langchain-ollama
+langchain-community

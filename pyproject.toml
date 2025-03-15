@@ -1,0 +1,14 @@
+[project]
+name = "ml-ollama"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "ipython>=9.0.2",
+    "langchain>=0.3.20",
+    "langchain-community>=0.3.19",
+    "langchain-ollama>=0.2.3",
+    "ollama>=0.4.7",
+]
